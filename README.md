@@ -389,6 +389,7 @@ One may use numba or C strings to write CUDA kernels.
 ## 1_gelu_omp (134217728 elements)
 |Group|Name|Result|Rank|
 |-----|----|------|----|
+|default|pisarevsky_vadim|0.0806|1|
 |**FAST**|**FAST**|**0.0879**|**-**|
 |**REF**|**REF**|**0.4536**|**-**|
 |default|chekmaryov_petr|TEST FAILED|-|
@@ -429,6 +430,14 @@ One may use numba or C strings to write CUDA kernels.
 |**REF**|**REF**|**0.1930**|**-**|
 
 # Tasks Done
+## default
+|Group|Name|Passed|Score|
+|-----|----|------|-----|
+|default|chekmaryov_petr|0/7|0|
+|default|pisarevsky_vadim|1/7|64|
+
+Passed: 0
+
 **Total Passed: 0**
 
 ---
