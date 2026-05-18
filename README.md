@@ -442,6 +442,7 @@ One may use numba or C strings to write CUDA kernels.
 |default|lobanova_elizaveta|1/7|59|
 |default|pisarevsky_vadim|1/7|64|
 |default|smirnov_denis|3/7|188|
+|default|znamenskiy_mikhail|0/7|0|
 
 Passed: 0
 
